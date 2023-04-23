@@ -27,21 +27,21 @@ async def unit_search(interaction, char_name:str):
     character_embed = discord.Embed()
     character_embed.set_author(name=char_name)
     character_embed.add_field(name="UB",value = "\n\u200b",inline=False)
-    if(result[0][2]==None):
+    if(result[0][2]=="None"):
         character_embed.set_thumbnail(url=result[0][1])
     else:
         character_embed.set_thumbnail(url=result[0][2])
-    if(result[0][4]==None):
+    if(result[0][4]=="None"):
         character_embed.set_image(url=result[0][3])
     else:
         character_embed.set_image(url=result[0][4])
-    if(result[0][7]==None and result[0][8]==None):
+    if(result[0][7]=="None" and result[0][8]=="None"):
         character_embed.add_field(name=result[0][5],value=result[0][6],inline=False)
     else:
         character_embed.add_field(name=result[0][5]+'\n',value = result[0][6],inline=True)
         character_embed.add_field(name="Unlock at 6⭐️: \n" + result[0][7]+'\n',value = result[0][8],inline=True)
     character_embed.add_field(name="Skill 1",value = "\n\u200b",inline=False)
-    if(result[0][11]==None and result[0][12]==None):
+    if(result[0][11]=="None" and result[0][12]=="None"):
         character_embed.add_field(name=result[0][9],value=result[0][10],inline=False)
     else:
         character_embed.add_field(name=result[0][9]+'\n',value = result[0][10],inline=True)
