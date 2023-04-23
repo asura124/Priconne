@@ -4,6 +4,8 @@ from discord.ext import commands
 from decouple import config
 import database_connector
 from ButtonMenu import ButtonMenu
+from fuzzywuzzy import fuzz
+from fuzzywuzzy import process
 
 
 intents = discord.Intents.default()
@@ -22,8 +24,8 @@ async def unit_search(interaction, char_name:str):
     database_query = 'SELECT * from unit_info where unit_name="' + char_name + '";'
     mycursor.execute(database_query)
     result = mycursor.fetchall()
-    for i in result[0]:
-        print(i,end='\n')
+    #for i in result[0]:
+    #    print(i,end='\n')
     character_embed = discord.Embed()
     character_embed.set_author(name=char_name)
     character_embed.add_field(name="UB",value = "\n\u200b",inline=False)
