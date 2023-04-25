@@ -6,6 +6,7 @@ import database_connector
 from ButtonMenu import ButtonMenu
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
+from characters import characters
 
 
 intents = discord.Intents.default()
@@ -21,14 +22,31 @@ async def on_ready():
 @tree.command(name = 'character',description = "Enter an unit's name:")
 @app_commands.describe(char_name='Char name')
 async def unit_search(interaction, char_name:str):
-    database_query = 'SELECT * from unit_info where unit_name="' + char_name + '";'
+    similarity, unit_name = 0,""
+    for i in characters:
+        temp = fuzz.ratio(char_name,i)
+        if(temp>similarity):
+            similarity = temp
+            unit_name = i
+    version_name = unit_name
+    for i in characters[unit_name]:
+        temp = fuzz.ratio(char_name,i)
+        if(temp>similarity):
+            similarity = temp
+            version_name = i
+    #for i in characters[unit_name].items():
+    #    temp = fuzz.ratio(char_name,characters[unit_name][i])
+    #    if(temp>similarity):
+    #        similarity = temp
+    #        version_name = characters[unit_name][i]
+    database_query = 'SELECT * from unit_info where unit_name="' + version_name + '";'
     mycursor.execute(database_query)
     result = mycursor.fetchall()
     #for i in result[0]:
     #    print(i,end='\n')
     all_embeds = []
     character_embed = discord.Embed()
-    character_embed.set_author(name=char_name)
+    character_embed.set_author(name=version_name)
     character_embed.add_field(name="UB",value = "\n\u200b",inline=False)
     if(result[0][2]=="None"):
         character_embed.set_thumbnail(url=result[0][1])
@@ -57,9 +75,9 @@ async def unit_search(interaction, char_name:str):
     if(result[0][17]!="None" and result[0][18]!="None"):
         special_unique_skills = discord.Embed()
         special_unique_skills.set_author(name="Special/Unique/Hidden Skills")
-        special_unique_skills.add_field(name=result[0][17],value=result[0][18],inline=False)
+        special_unique_skills.add_field(name=result[0][17],value=result[0][18],inline=True)
         if(result[0][19]!="None" and result[0][20]!="None"):
-            special_unique_skills.add_field(name=result[0][19],value=result[0][20],inline=False)
+            special_unique_skills.add_field(name=result[0][19],value=result[0][20],inline=True)
         if(result[0][21]!="None" and result[0][22]!="None"):
             special_unique_skills.add_field(name=result[0][21],value=result[0][22],inline=False)
         if(result[0][23]!="None" and result[0][24]!="None"):
