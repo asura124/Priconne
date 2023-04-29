@@ -64,4 +64,47 @@ characters = {
         "Tsumugi (Halloween)" : 1,
         "Tsumugi (Summer)" : 1,
     },
+    "Misogi" : {
+        "Misogi (Halloween)" : 1,
+        "Misogi (Summer)" : 1,
+    },
+    "Mimi" : {
+        "Mimi (Halloween)" : 1,
+        "Mimi (Summer)" : 1,
+    },
+    "Kyouka" : {
+        "Kyouka (Halloween)" : 1,
+        "Kyouka (Summer)" : 1,
+    },
+    "Misato" : {
+        "Misato (Summer)" : 1,
+        "Misato (New Year)" : 1,
+    },
+    "Aoi" : {
+        "Aoi (Transfer Student)" : 1,
+        "Aoi (Workwear)" : 1,
+        "Aoi (Camp)" : 1,
+    },
+    "Hatsune" : {
+        "Hatsune (Summer)" : 1,
+    },
+    "Ilya" : {
+        "Ilya (Christmas)" : 1,
+    },
+    "Akari" : {
+        "Akari (Angel)" : 1,
+        "Akari (Christmas)" : 1,
+    },
+    "Yori" : {
+        "Yori (Angel)" : 1,
+        "Yori (Christmas)" : 1,
+    },
+    "Shinobu" : {
+        "Shinobu (Halloween)" : 1,
+        "Shinobu (Pirate)" : 1,
+    },
+    "Miyako" : {
+        "Miyako (Halloween)" : 1,
+        "Miyako (Christmas)" : 1,
+    },
 }
