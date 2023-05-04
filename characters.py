@@ -107,4 +107,84 @@ characters = {
         "Miyako (Halloween)" : 1,
         "Miyako (Christmas)" : 1,
     },
+    "Jun" : {
+        "Jun (Summer)" : 1,
+        "Jun (Christmas)" : 1,
+    },
+    "Tomo" : {
+        "Tomo (Magical)" : 1,
+        "Tomo (Halloween)" : 1,
+    },
+    "Christina" : {
+        "Christina (Christmas)" : 1,
+        "Christina (Wild)" : 1,
+    },
+    "Matsuri" : {
+        "Matsuri (Halloween)" : 1,
+        "Matsuri (Wild)" : 1,
+    },
+    "Saren" : {
+        "Saren (Summer)" : 1,
+        "Saren (Christmas)" : 1,
+    },
+    "Suzume" : {
+        "Suzume (Summer)" : 1,
+        "Suzume (New Year)" : 1,
+    },
+    "Kurumi" : {
+        "Kurumi (Christmas)" : 1,
+        "Kurumi (Stage)" : 1,
+    },
+    "Ayane" : {
+        "Ayane (Christmas)" : 1,
+        "Ayane (Explorer)" : 1,
+    },
+    "Maho" : {
+        "Maho (Summer)" : 1,
+        "Maho (Cinderella)" : 1,
+        "Maho (Explorer)" : 1,
+    },
+    "Makoto" : {
+        "Makoto (Summer)" : 1,
+        "Makoto (Cinderella)" : 1,
+    },
+    "Kaori" : {
+        "Kaori (Summer)" : 1,
+        "Kaori (Halloween)" : 1,
+    },
+    "Kasumi" : {
+        "Kasumi (Magical)" : 1,
+        "Kasumi (Summer)" : 1,
+    },
+    "Mahiru" : {
+        "Mahiru (Ranger)" : 1,
+        "Mahiru (Christmas)" : 1,
+    },
+    "Rima" : {
+        "Rima (Cinderella)" : 1,
+    },
+    "Shiori" : {
+        "Shiori (Magical)" : 1,
+        "Shiori (Ranger)" : 1,
+    },
+    "Rin" : {
+        "Rin (Ranger)" : 1,
+        "Rin (Halloween)" : 1,
+    },
+    "Akino" : {
+        "Akino (Christmas)" : 1,
+    },
+    "Tamaki" : {
+        "Tamaki (Summer)" : 1,
+        "Tamaki (Workwear)" : 1,
+        "Tamaki (Cafe)" : 1,
+    },
+    "Mifuyu" : {
+        "Mifuyu (Summer)" : 1,
+        "Mifuyu (Workwear)" : 1,
+    },
+    "Yukari" : {
+        "Yukari (Christmas)" : 1,
+        "Yukari (Camp)" : 1,
+    },
 }
