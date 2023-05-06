@@ -187,4 +187,157 @@ characters = {
         "Yukari (Christmas)" : 1,
         "Yukari (Camp)" : 1,
     },
+    "Nanaka" : {
+        "Nanaka (Summer)" : 1,
+        "Nanaka (Halloween)" : 1,
+    },
+    "Anna" : {
+        "Anna (Summer)"  : 1,
+        "Anna (Pirate)" : 1,
+    },
+    "Ruka" : {
+        "Ruka (Summer)"  : 1,
+        "Ruka (New Year)"  : 1,
+    },
+    "Eriko" : {
+        "Eriko (Valentine)"  : 1,
+        "Eriko (Summer)" : 1,
+    },
+    "Mitsuki" : {
+        "Mitsuki (Ooedo)" : 1,
+        "Mitsuki (New Year)" : 1,
+    },
+    "Io" : {
+        "Io (Summer)" : 1,
+        "Io (Noir)" : 1,
+    },
+    "Misaki" : {
+        "Misaki (Halloween)" : 1,
+        "Misaki (Stage)" : 1,
+    },
+    "Suzuna" : {
+        "Suzuna (Summer)" : 1,
+        "Suzuna (Halloween)" : 1,
+    },
+    "Monika" : {
+        "Monika (Magical)" : 1,
+        "Monika (Cafe)" : 1,
+    },
+    "Kuuka" : {
+        "Kuuka (Ooedo)" : 1,
+        "Kuuka (Noir)" : 1,
+    },
+    "Ayumi" : {
+        "Ayumi (Wonder)" : 1,
+        "Ayumi (Phantom Thief)" : 1,
+    },
+    "Ninon" : {
+        "Ninon (Ooedo)" : 1,
+        "Ninon (Halloween)" : 1,
+    },
+    "Yuki" : {
+        "Yuki (Ooedo)" : 1,
+    },
+    "Chloe" : {
+        "Chloe (School Festival)" : 1,
+    },
+    "Yuni" : {
+        "Yuni (School Festival)" : 1,
+    },
+    "Chieru" : {
+        "Chieru (School Festival)" : 1,
+    },
+    "Kaya" : {
+        "Kaya (Time Travel)" : 1,
+        "Kaya (Liberator)" : 1,
+    },
+    "Inori" : {
+        "Inori (Time Travel)" : 1,
+        "Inori (Phantom Thief)" : 1,
+    },
+    "Homare" : {
+        "Homare (New Year)" : 1,
+    },
+    "Creditta" : {
+
+    },
+    "Ranpha" : {
+
+    },
+    "Nea" : {
+
+    },
+    "Misora" : {
+
+    },
+    "Riri (Fallen)" : {
+
+    },
+    "Djeeta" : {
+        "Djeeta (Warlock)" : 1,
+    },
+    "Arisa" : {
+
+    },
+    "Luna" : {
+
+    },
+    "Anne" : {
+
+    },
+    "Grea" : {
+
+    },
+    "Lou" : {
+
+    },
+    "Vampy" : {
+
+    },
+    "Muimi" : {
+        "Muimi (New Year)" : 1,
+        "Muimi (Liberator)" : 1,
+    },
+    "Neneka" : {
+        "Neneka (New Year)" : 1,
+    },
+    "Karin" : {
+        "Karin (Alchemist)" : 1,
+    },
+    "Kaiser Insight" : {
+
+    },
+    "Ameth" : {
+
+    },
+    "Hatsune & Shiori" : {
+
+    },
+    "Misogi & Mimi & Kyouka" : {
+
+    },
+    "Akino & Saren" : {
+
+    },
+    "Anne & Grea" : {
+
+    },
+    "Emilia" : {
+
+    },
+    "Rem" : {
+
+    },
+    "Ram" : {
+
+    },
+    "Uzuki (Deremasu)" : {
+
+    },
+    "Mio (Deremasu)": {
+
+    },
+    "Rin (Deremasu)" : {
+
+    },
 }
