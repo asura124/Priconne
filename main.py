@@ -24,21 +24,16 @@ async def on_ready():
 async def unit_search(interaction, char_name:str):
     similarity, unit_name = 0,""
     for i in characters:
-        temp = fuzz.ratio(char_name,i)
+        temp = fuzz.token_sort_ratio(char_name,i)
         if(temp>similarity):
             similarity = temp
             unit_name = i
     version_name = unit_name
     for i in characters[unit_name]:
-        temp = fuzz.ratio(char_name,i)
+        temp = fuzz.token_sort_ratio(char_name,i)
         if(temp>similarity):
             similarity = temp
             version_name = i
-    #for i in characters[unit_name].items():
-    #    temp = fuzz.ratio(char_name,characters[unit_name][i])
-    #    if(temp>similarity):
-    #        similarity = temp
-    #        version_name = characters[unit_name][i]
     database_query = 'SELECT * from unit_info where unit_name="' + version_name + '";'
     mycursor.execute(database_query)
     result = mycursor.fetchall()
