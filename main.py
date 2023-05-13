@@ -37,10 +37,8 @@ async def unit_search(interaction, char_name:str):
     database_query = 'SELECT * from unit_info where unit_name="' + version_name + '";'
     mycursor.execute(database_query)
     result = mycursor.fetchall()
-    #for i in result[0]:
-    #    print(i,end='\n')
     all_embeds = []
-    character_embed = discord.Embed()
+    character_embed = discord.Embed(description = "The Numbers shown below are when they're lvl 268. \n For more information, Go [Here](https://docs.google.com/spreadsheets/d/1JjK7Ws4gfzKChRs5ueoxEZVN5SXK10nhDC1-nbm0NUs/edit#gid=1918232313)")
     character_embed.set_author(name=version_name)
     character_embed.add_field(name="UB",value = "\n\u200b",inline=False)
     if(result[0][2]=="None"):
