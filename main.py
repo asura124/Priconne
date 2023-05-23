@@ -24,11 +24,12 @@ async def on_ready():
 async def unit_search(interaction, char_name:str):
     similarity, unit_name = 0,""
     for i in characters:
-        temp = fuzz.token_sort_ratio(char_name,i) + fuzz.ratio(char_name,i)
+        temp = fuzz.token_sort_ratio(char_name,i)
         if(temp>similarity):
             similarity = temp
             unit_name = i
     version_name = unit_name
+    similarity = fuzz.token_sort_ratio(char_name,version_name) + fuzz.ratio(char_name,version_name)
     for i in characters[unit_name]:
         temp = fuzz.token_sort_ratio(char_name,i) + fuzz.ratio(char_name,i)
         if(temp>similarity):
