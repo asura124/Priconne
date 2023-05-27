@@ -22,9 +22,11 @@ async def on_ready():
 @tree.command(name = 'character',description = "Enter an unit's name:")
 @app_commands.describe(char_name='Char name')
 async def unit_search(interaction, char_name:str):
+    """
     similarity, unit_name = 0,""
     for i in characters:
         temp = fuzz.token_sort_ratio(char_name,i)
+        print(i,temp,similarity)
         if(temp>similarity):
             similarity = temp
             unit_name = i
@@ -33,6 +35,20 @@ async def unit_search(interaction, char_name:str):
     for i in characters[unit_name]:
         temp = fuzz.token_sort_ratio(char_name,i) + fuzz.ratio(char_name,i)
         if(temp>similarity):
+            similarity = temp
+            version_name = i
+    """
+    similarity, version_name = 0,""
+    for i in characters:
+        temp = fuzz.token_sort_ratio(char_name,i)
+        print(i,temp,similarity)
+        if(temp==similarity and temp!=0):
+            temp = fuzz.ratio(char_name,i)
+            char_temp = fuzz.ratio(version_name,i)
+            if(temp>char_temp):
+                similarity = temp
+                version_name = i
+        elif(temp>similarity):
             similarity = temp
             version_name = i
     database_query = 'SELECT * from unit_info where unit_name="' + version_name + '";'
