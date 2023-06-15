@@ -70,13 +70,13 @@ async def unit_search(interaction, char_name:str):
     if(char_dict['Special_Skills_1_Name']!="None" and char_dict['Special_Skills_1']!="None"):
         special_unique_skills = discord.Embed()
         special_unique_skills.set_author(name="Special/Unique/Hidden Skills")
-        special_unique_skills.add_field(name=char_dict['Special_Skills_1_Name'],value=char_dict['Special_Skills_1'],inline=True)
+        special_unique_skills.add_field(name=char_dict['Special_Skills_1_icon'] + char_dict['Special_Skills_1_Name'],value=char_dict['Special_Skills_1'],inline=True)
         if(char_dict['Special_skills_1+_name']!="None" and char_dict['Special_skills_1+']!="None"):
-            special_unique_skills.add_field(name=char_dict['Special_skills_1+_name'],value=char_dict['Special_skills_1+'],inline=True)
+            special_unique_skills.add_field(name=char_dict['Special_Skills_1_icon'] + char_dict['Special_skills_1+_name'],value=char_dict['Special_skills_1+'],inline=True)
         if(char_dict['Special_skills_2_Name']!="None" and char_dict['Special_skills_2']!="None"):
-            special_unique_skills.add_field(name=char_dict['Special_skills_2_Name'],value=char_dict['Special_skills_2'],inline=False)
+            special_unique_skills.add_field(name=char_dict['Special_Skills_2_icon'] + char_dict['Special_skills_2_Name'],value=char_dict['Special_skills_2'],inline=False)
         if(char_dict['Special_Skills_3_Name']!="None" and char_dict['Special_skills_3']!="None"):
-            special_unique_skills.add_field(name=char_dict['Special_Skills_3_Name'],value=char_dict['Special_skills_3'],inline=False)
+            special_unique_skills.add_field(name=char_dict['Special_skills_3_icon'] + char_dict['Special_Skills_3_Name'],value=char_dict['Special_skills_3'],inline=False)
         all_embeds.append(special_unique_skills)
     misc = discord.Embed()
     misc.set_author(name="MISC")

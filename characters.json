@@ -7670,7 +7670,7 @@
     "UB": "Luna deals 33963 magical damage to the nearest enemy. If there are Otomodachi available, Luna uses up to 5 Otomodachi to increase the damage dealt.",
     "UB+_name": "None",
     "UB+": "None",
-    "Skill_1_icon" "<:Silver_TP_skill:1118620867623137335>",
+    "Skill_1_icon": "<:Silver_TP_skill:1118620867623137335>",
     "Skill_1_name": "Soul Conversion",
     "Skill_1": "Luna deals 30601 magical damage to the ally with the highest remaining HP and recovers the target's TP by 800. Luna gains 1 Otomodachi.",
     "Skill_1+_name": "Soul Conversion+",
