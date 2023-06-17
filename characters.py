@@ -182,6 +182,7 @@ characters = {
     "Ninon (Halloween)" : 1,
     "Yuki" : 1,
     "Yuki (Ooedo)" : 1,
+    "Yuki (Ritual Garment)" : 1,
     "Chloe" : 1,
     "Chloe (School Festival)" : 1,
     "Yuni" : 1,
