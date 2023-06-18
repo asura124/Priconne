@@ -12,6 +12,9 @@ class ButtonMenu(View):
         self.length = len(self.pages) - 1
         self.children[0].disabled = True
         self.children[1].disabled = True
+        if(self.length==0):
+            self.children[-1].disabled = True
+            self.children[-2].disabled = True
 
     async def update(self,page:int):
         self.current_page = page
