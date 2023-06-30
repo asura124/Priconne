@@ -7584,7 +7584,6 @@
     "initial_movement": "Skill 2 → Skill 1",
     "loop_pattern": "Attack → Skill 1 → Skill 2 → Attack → Skill 2"
   },
-  },
   {
     "Unit_Name": "Djeeta",
     "level" : 268,
