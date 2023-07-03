@@ -218,6 +218,7 @@ characters = {
     "Muimi (Liberator)" : 1,
     "Neneka" : 1,
     "Neneka (New Year)" : 1,
+    "Neneka (Summer)" : 1,
     "Karin" : 1,
     "Karin (Alchemist)" : 1,
     "Kaiser Insight" : 1,
