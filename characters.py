@@ -145,6 +145,7 @@ characters = {
     "Yukari" : 1,
     "Yukari (Christmas)" : 1,
     "Yukari (Camp)" : 1,
+    "Yukari (Summer)" : 1,
     "Nanaka" : 1,
     "Nanaka (Summer)" : 1,
     "Nanaka (Halloween)" : 1,
