@@ -63,7 +63,11 @@ async def unit_search(interaction, char_name:str):
         character_embed.add_field(name=char_dict['Skill_1_name']+'\n',value = char_dict['Skill_1'],inline=True)
         character_embed.add_field(name="Unlock after UE: \n" + char_dict['Skill_1+_name']+'\n',value = char_dict['Skill_1+'],inline=True)
     character_embed.add_field(name=char_dict['Skill_2_icon'] + " Skill 2",value = "\n\u200b",inline=False)
-    character_embed.add_field(name=char_dict['Skill_2_name'],value = char_dict['Skill_2'],inline=False)
+    if(char_dict['Skill_2+_name']=="None" and char_dict['Skill_2+'] == "None"):
+        character_embed.add_field(name=char_dict['Skill_2_name'],value=char_dict['Skill_2'],inline=False)
+    else:
+        character_embed.add_field(name=char_dict['Skill_2_name']+'\n',value = char_dict['Skill_2'],inline=True)
+        character_embed.add_field(name="Unlock after UEG: \n" + char_dict['Skill_2+_name']+'\n',value = char_dict['Skill_2+'],inline=True)
     character_embed.add_field(name=char_dict['EX_skill_icon'] + " EX Skill",value = "\n\u200b",inline=False)
     character_embed.add_field(name=char_dict['EX_skill_name'],value=char_dict['EX_skill'],inline=False)
     all_embeds.append(character_embed)
