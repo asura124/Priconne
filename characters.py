@@ -81,6 +81,7 @@ characters = {
     "Shinobu" : 1,
     "Shinobu (Halloween)" : 1,
     "Shinobu (Pirate)" : 1,
+    "Shinobu (Summer)" : 1,
     "Miyako" : 1,
     "Miyako (Halloween)" : 1,
     "Miyako (Christmas)" : 1,
