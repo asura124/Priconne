@@ -172,6 +172,7 @@ characters = {
     "Suzuna" : 1,
     "Suzuna (Summer)" : 1,
     "Suzuna (Halloween)" : 1,
+    "Suzuna (Transfer Student)" : 1,
     "Monika" : 1,
     "Monika (Magical)" : 1,
     "Monika (Cafe)" : 1,
