@@ -101,6 +101,7 @@ characters = {
     "Saren" : 1,
     "Saren (Summer)" : 1,
     "Saren (Christmas)" : 1,
+    "Saren (Sarathalia)" : 1,
     "Suzume" : 1,
     "Suzume (Summer)" : 1,
     "Suzume (New Year)" : 1,
