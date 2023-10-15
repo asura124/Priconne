@@ -158,6 +158,7 @@ characters = {
     "Ruka" : 1,
     "Ruka (Summer)"  : 1,
     "Ruka (New Year)"  : 1,
+    "Ruka (Sarasaria)" : 1,
     "Eriko" : 1,
     "Eriko (Valentine)"  : 1,
     "Eriko (Summer)" : 1,
