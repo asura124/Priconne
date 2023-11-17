@@ -212,6 +212,7 @@ characters = {
     "Misora" : 1,
     "Riri (Fallen)" : 1,
     "Quria (Fallen)" : 1,
+    "Precia (Fallen)" : 1,
     "Croce" : 1,
     "Lailael" : 1,
     "Djeeta" : 1,
