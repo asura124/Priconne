@@ -5,6 +5,7 @@ characters = {
     "Pecorine (Princess)" : 1,
     "Pecorine (New Year)" : 1,
     "Pecorine (Overload)" : 1,
+    "Pecorine (Christmas)" : 1,
     "Kokkoro" : 1,
     "Kokkoro (Summer)" : 1,
     "Kokkoro (New Year)" : 1,
