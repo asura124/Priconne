@@ -207,6 +207,7 @@ characters = {
     "Homare" : 1,
     "Homare (New Year)" : 1,
     "Creditta" : 1,
+    "Creditta (Christmas)" : 1,
     "Ranpha" : 1,
     "Ranpha (Summer)" : 1,
     "Nea" : 1,
