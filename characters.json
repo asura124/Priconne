@@ -2,6 +2,7 @@
   {
     "Unit_Name": "Pecorine",
     "level" : 289,
+    "Element" : "Light",
     "3_star_icon": "https://imgur.com/zcIlx9e.png",
     "6_star_icon": "https://imgur.com/0RUZxUX.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/52/FullArtPecorine.png/revision/latest?cb=20191115020625",
@@ -41,6 +42,7 @@
   {
     "Unit_Name": "Pecorine (Summer)",
     "level" : 271,
+    "Element" : "Water",
     "3_star_icon": "https://imgur.com/2yyHh1n.png",
     "6_star_icon": "https://imgur.com/ofplDz8.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/5a/FullArtSummerPecorine.png/revision/latest/scale-to-width-down/700?cb=20191115020818",
@@ -80,6 +82,7 @@
   {
     "Unit_Name": "Pecorine (Princess)",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://imgur.com/srLD8Xc.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/d8/FullArtPPeco.png/revision/latest?cb=20200218183442",
@@ -119,6 +122,7 @@
   {
     "Unit_Name": "Pecorine (New Year)",
     "level" : 271,
+    "Element" : "Light",
     "3_star_icon": "https://imgur.com/X7dvQyl.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a2/FullArtNewYearPecorine.png/revision/latest?cb=20210114164949",
@@ -158,6 +162,7 @@
   {
     "Unit_Name": "Pecorine (Overload)",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://imgur.com/QjDljIT.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/0f/FullArtOverloadPecorine.png/revision/latest?cb=20220225082906",
@@ -197,6 +202,7 @@
   {
     "Unit_Name": "Pecorine (Christmas)",
     "level" : 289,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/1v9ZYNh.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/427340_main.jpg",
@@ -236,6 +242,7 @@
   {
     "Unit_Name": "Kokkoro",
     "level" : 271,
+    "Element" : "Wind",
     "3_star_icon": "https://i.imgur.com/Lc29E8Z.png",
     "6_star_icon": "https://i.imgur.com/aX6Sd2p.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/2b/FullArtKokkoro.png/revision/latest?cb=20191115021026",
@@ -275,6 +282,7 @@
   {
     "Unit_Name": "Kokkoro (Summer)",
     "level" : 271,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/0cQiWaL.png",
     "6_star_icon": "https://i.imgur.com/QXKlPwA.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/8/8a/FullArtSummerKokkoro.png/revision/latest?cb=20191115021218",
@@ -314,6 +322,7 @@
   {
     "Unit_Name": "Kokkoro (New Year)",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/7Yau3yN.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/20/FullArtNewYearKokkoro.png/revision/latest?cb=20200116061509",
@@ -353,6 +362,7 @@
   {
     "Unit_Name": "Kokkoro (Princess)",
     "level" : 289,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/BOPzpfs.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/70/FullArtPrincessKokkoro.png/revision/latest?cb=20200607173822",
@@ -392,6 +402,7 @@
   {
     "Unit_Name": "Kokkoro (Ritual Garment)",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/zBzl4I9.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/0b/FullArtCeremonialKokkoro.png/revision/latest?cb=20210131041854",
@@ -431,6 +442,7 @@
   {
     "Unit_Name": "Kokkoro (Ranger)",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/jDSlkOT.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FsvaTVJXsAAzdYA?format=jpg&name=large",
@@ -470,6 +482,7 @@
   {
     "Unit_Name": "Kyaru",
     "level" : 283,
+    "Element" : "Dark",
     "3_star_icon": "https://i.imgur.com/ofAAJdR.png",
     "6_star_icon": "https://i.imgur.com/petAR8K.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/ab/FullArtKyaru.png/revision/latest?cb=20191115021730",
@@ -509,6 +522,7 @@
   {
     "Unit_Name": "Kyaru (Summer)",
     "level" : 271,
+    "Element" : "Water",
     "3_star_icon": "https://i.imgur.com/gtuyfC6.png",
     "6_star_icon": "https://i.imgur.com/TrQGyNC.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/13/FullArtSummerKyaru.png/revision/latest?cb=20220108035930",
@@ -548,6 +562,7 @@
   {
     "Unit_Name": "Kyaru (New Year)",
     "level" : 271,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/dKeBaMI.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/10/FullArtNewYearKyaru.png/revision/latest?cb=20191231044015",
@@ -587,6 +602,7 @@
   {
     "Unit_Name": "Kyaru (Princess)",
     "level" : 271,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/pG9xvTl.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/2a/FullArtPKyaru.png/revision/latest?cb=20210228125230",
@@ -626,6 +642,7 @@
   {
     "Unit_Name": "Kyaru (Overload)",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/lcJCw0p.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9b/FullArtOverloadKyaru.png/revision/latest?cb=20220225104700",
@@ -665,6 +682,7 @@
   {
     "Unit_Name": "Kyaru (Transfer Student)",
     "level" : 280,
+    "Element" : "Fire",
     "3_star_icon": "https://i.imgur.com/x4AdUbI.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/415809_main.jpg",
@@ -704,6 +722,7 @@
   {
     "Unit_Name": "Shefi",
     "level" : 271,
+    "Element" : "Water",
     "3_star_icon": "https://i.imgur.com/okNv3u2.png",
     "6_star_icon": "https://i.imgur.com/NbuPChX.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9e/FullArtSheffy.png/revision/latest?cb=20210215164210",
@@ -743,6 +762,7 @@
   {
     "Unit_Name": "Shefi (New Year)",
     "level" : 271,
+    "Element" : "Light",
     "3_star_icon": "https://i.imgur.com/MtOhcUL.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/7c/NYSheffyFullArt.png/revision/latest?cb=20220106021410",
@@ -782,6 +802,7 @@
   {
     "Unit_Name": "Yui",
     "level" : 271,
+    "Element" : "Light",
     "3_star_icon": "https://i.imgur.com/VJNPQ4B.png",
     "6_star_icon": "https://i.imgur.com/T6kDzpR.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9b/FullArtYui.png/revision/latest?cb=20191115022000",
@@ -821,6 +842,7 @@
   {
     "Unit_Name": "Yui (New Year)",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/3cZPiLt.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/cd/FullArtNewYearYui.png/revision/latest?cb=20191115022010",
@@ -860,6 +882,7 @@
   {
     "Unit_Name": "Yui (Princess)",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/O6YOPod.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/6f/FullArtPrincessYui.png/revision/latest?cb=20200630114018",
@@ -899,6 +922,7 @@
   {
     "Unit_Name": "Yui (Ritual Garment)",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/eu9oTfq.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/17/FullArtCeremonialYui.png/revision/latest?cb=20210131164955",
@@ -938,6 +962,7 @@
   {
     "Unit_Name": "Yui (Summer)",
     "level" : 274,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/yOKL4rj.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/1a/FullArtSummerYui.png/revision/latest?cb=20220801173721",
@@ -975,8 +1000,49 @@
     "loop_pattern": "Attack → Skill 1 → Skill 2 → Attack → Skill 2 → Attack"
   },
   {
+    "Unit_Name": "Yui (Astral)",
+    "level" : 298,
+    "Element" :"Light",
+    "3_star_icon": "https://i.imgur.com/DqgDo3N.png",
+    "6_star_icon": "None",
+    "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/435323_main.jpg",
+    "6_star_art": "None",
+    "UB_icon" :"gold_magical",
+    "UB_name": "Astral Prism",
+    "UB": "Yui boosts the M.ATK and M.Critical of all allies with a Barrier by 4485 and 100 respectively and deals 422424 magical damage to the nearest enemy. \n The potencies of the M.ATK and M.Critical buffs go up according to the total remaining HP of all allies (up to 2 times the base amount).",
+    "UB+_name": "None",
+    "UB+": "None",
+    "Skill_1_icon" :"silver_magical",
+    "Skill_1_name": "Lustre Shower",
+    "Skill_1": "Yui boosts her M.ATK and M.Critical Damage by 5980 and 5% respectively, deals 140808 magical damage to the nearest enemy and recovers her TP by 200. \nThe potencies of the M.ATK and M.Critical Damage buffs go up according to the total remaining HP of all allies (up to 2 times the base amount).",
+    "Skill_1+_name": "None",
+    "Skill_1+": "None",
+    "Skill_2_icon" :"silver_buff",
+    "Skill_2_name": "Shiny Garden",
+    "Skill_2": "Yui boosts the M.ATK of all allies with a Barrier by 8970, and heals all allies without a Barrier for 17302 HP and deploys a Barrier that negates up to 9568 physical and magical damage on them. \n She also boosts her M.ATK by 5980 and recovers her TP by 200. \n The potencies of both M.ATK buffs go up according to the total remaining HP of all allies (up to 2 times the base amount).",
+    "Skill_2+_name" : "None",
+    "Skill_2+" : "None",
+    "EX_skill_icon" :"bronze_EX_magical_atk",
+    "EX_skill_name": "Astral Luminous",
+    "EX_skill": "Yui's M.ATK goes up by 4485 (gains an additional +225 M.ATK at ★5) at the start of the battle.",
+    "Special_Skills_1_icon" :"None",
+    "Special_Skills_1_Name": "None",
+    "Special_Skills_1": "None",
+    "Special_skills_1+_name": "None",
+    "Special_skills_1+": "None",
+    "Special_Skills_2_icon" :"None",
+    "Special_skills_2_Name": "None",
+    "Special_skills_2": "None",
+    "Special_skills_3_icon" :"None",
+    "Special_Skills_3_Name": "None",
+    "Special_skills_3": "None",
+    "initial_movement": "Skill 2 → Skill 1",
+    "loop_pattern": "Attack → Skill 2 → Skill 1 → Attack → Skill 2 → Skill 1 → Attack → Attack → Skill 1"
+  },
+  {
     "Unit_Name": "Rei",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/zEqCJoA.png",
     "6_star_icon": "https://i.imgur.com/ElCLBVM.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/04/FullArtRei.png/revision/latest?cb=20191115015921",
@@ -1016,6 +1082,7 @@
   {
     "Unit_Name": "Rei (New Year)",
     "level" : 271,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/4NGGMyH.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9e/FullArtNewYearRei.png/revision/latest?cb=20191115020321",
@@ -1055,6 +1122,7 @@
   {
     "Unit_Name": "Rei (Halloween)",
     "level" : 271,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/hctDX2K.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/5a/FullArtHalloweenRei.png/revision/latest?cb=20201015194011",
@@ -1094,6 +1162,7 @@
   {
     "Unit_Name": "Rei (Princess)",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/0pJF1GZ.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a1/FullArtPRei.png/revision/latest?cb=20210630085815",
@@ -1133,6 +1202,7 @@
   {
     "Unit_Name": "Rei (Summer)",
     "level" : 274,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/EBhWwbM.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/14/FullArtSummerRei.png/revision/latest?cb=20220701212043",
@@ -1170,8 +1240,49 @@
     "loop_pattern": "Attack → Skill 2 → Skill 1 → Attack → Skill 2 → Attack → Skill 1"
   },
   {
+    "Unit_Name": "Rei (Astral)",
+    "level" : 298,
+    "Element" :"Wind",
+    "3_star_icon": "https://i.imgur.com/hjHXVVo.png",
+    "6_star_icon": "None",
+    "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/435325_main.jpg",
+    "6_star_art": "None",
+    "UB_icon" :"gold_physical",
+    "UB_name": "Astral Sonic",
+    "UB": "Rei deals 145178 physical damage to all enemies in an area in front of her and Pushes them away by a large distance.",
+    "UB+_name": "None",
+    "UB+": "None",
+    "Skill_1_icon" :"silver_stun",
+    "Skill_1_name": "Aerial Edge",
+    "Skill_1": "Rei deals 107846 physical damage to the nearest enemy, afflicts the target with a Stun debuff (2s), Pushes the target away by a large distance and also lowers the target's movement speed by a medium amount (-295). ",
+    "Skill_1+_name": "None",
+    "Skill_1+": "None",
+    "Skill_2_icon" :"silver_buff",
+    "Skill_2_name": "Gale Charge",
+    "Skill_2": "Rei boosts the P.DEF and M.DEF of all allies in an area around herself by 210 and deploys a Barrier that negates up to 13455 physical and magical damage on them.",
+    "Skill_2+_name" : "None",
+    "Skill_2+" : "None",
+    "EX_skill_icon" : "bronze_EX_buff",
+    "EX_skill_name": "Astral Wind",
+    "EX_skill": "Rei's P.ATK goes up by 4485 (gains an additional +225 P.ATK at ★5) at the start of the battle.",
+    "Special_Skills_1_icon" :"None",
+    "Special_Skills_1_Name": "None",
+    "Special_Skills_1": "None",
+    "Special_skills_1+_name": "None",
+    "Special_skills_1+": "None",
+    "Special_Skills_2_icon" :"None",
+    "Special_skills_2_Name": "None",
+    "Special_skills_2": "None",
+    "Special_skills_3_icon" : "None",
+    "Special_Skills_3_Name": "None",
+    "Special_skills_3": "None",
+    "initial_movement": "Skill 1 → Skill 2 ",
+    "loop_pattern": "Attack → Skill 1 → Skill 2 → Attack"
+  },
+  {
     "Unit_Name": "Hiyori",
     "level" : 271,
+    "Element" : "Fire",
     "3_star_icon": "https://i.imgur.com/jlpmPwv.png",
     "6_star_icon": "https://i.imgur.com/BWR698V.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/26/FullArtHiyori.png/revision/latest?cb=20191115022136",
@@ -1211,6 +1322,7 @@
   {
     "Unit_Name": "Hiyori (New Year)",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/lJ03ZZu.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/1b/FullArtNewYearHiyori.png/revision/latest?cb=20191115022148",
@@ -1250,6 +1362,7 @@
   {
     "Unit_Name": "Hiyori (Princess)",
     "level" : 271,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/ZxsRPhO.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a5/FullArtPHiyori.png/revision/latest?cb=20210108234439",
@@ -1289,6 +1402,7 @@
   {
     "Unit_Name": "Hiyori (Summer)",
     "level" : 274,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/0qD6Qyj.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/51/FullArtSummerHiyori.png/revision/latest?cb=20220709085514",
@@ -1326,8 +1440,49 @@
     "loop_pattern": "Attack → Skill 1 → Attack → Skill 1 → Skill 2 → Attack → Attack → Skill 1 → Skill 2"
   },
   {
+    "Unit_Name": "Hiyori (Astral)",
+    "level" : 298,
+    "Element" :"Fire",
+    "3_star_icon": "https://i.imgur.com/hEHBoP0.png",
+    "6_star_icon": "None",
+    "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/435324_main.jpg",
+    "6_star_art": "None",
+    "UB_icon" :"gold_debuff",
+    "UB_name": "Hiyori Astral Flare",
+    "UB": "Hiyori deals 177729 physical damage to the nearest enemy and lowers the target's P.ATK and P.DEF by 4485 and 90 respectively.",
+    "UB+_name": "None",
+    "UB+": "None",
+    "Skill_1_icon" :"silver_buff",
+    "Skill_1_name": "Resonance Fire",
+    "Skill_1": "Hiyori boosts the P.ATK and P.Critical Damage of all allies by 4485 and 10% respectively. \n She also lowers the P.ATK and P.Critical Damage of all enemies by 4485 and 10% respectively.",
+    "Skill_1+_name": "None",
+    "Skill_1+": "None",
+    "Skill_2_icon" : "silver_healing",
+    "Skill_2_name": "Blaze Yell",
+    "Skill_2": "Hiyori boosts the P.ATK of all allies by 4485, recovers their TP by 50 and applies to them a TP Regen buff that recovers 10 TP per second.",
+    "Skill_2+_name" : "None",
+    "Skill_2+" : "None",
+    "EX_skill_icon" :"bronze_EX_buff",
+    "EX_skill_name": "Astral Blaze",
+    "EX_skill": "Hiyori's P.ATK goes up by 4485 (gains an additional +225 P.ATK at ★5) at the start of the battle.",
+    "Special_Skills_1_icon" :"None",
+    "Special_Skills_1_Name": "None",
+    "Special_Skills_1": "None",
+    "Special_skills_1+_name": "None",
+    "Special_skills_1+": "None",
+    "Special_Skills_2_icon" :"None",
+    "Special_skills_2_Name": "None",
+    "Special_skills_2": "None",
+    "Special_skills_3_icon" :"None",
+    "Special_Skills_3_Name": "None",
+    "Special_skills_3": "None",
+    "initial_movement": "Skill 1 → Skill 2",
+    "loop_pattern": "Attack → Skill 1 → Skill 2 → Attack → Skill 1 → Attack → Skill 2"
+  },
+  {
     "Unit_Name": "Shizuru",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/t2FMbDK.png",
     "6_star_icon": "https://i.imgur.com/pbpnYMP.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/04/FullArtShizuru.png/revision/latest?cb=20191115022328",
@@ -1367,6 +1522,7 @@
   {
     "Unit_Name": "Shizuru (Valentine)",
     "level" : 271,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/sxSmeR9.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/59/FullArtValentineShizuru.png/revision/latest?cb=20191115022340",
@@ -1406,6 +1562,7 @@
   {
     "Unit_Name": "Shizuru (Summer)",
     "level" : 271,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/Tpx3Ntt.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/1b/FullArtSummerShizuru.png/revision/latest?cb=20210715213350",
@@ -1445,6 +1602,7 @@
   {
     "Unit_Name": "Shizuru (Noir)",
     "level" : 271,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/K0sx7Bo.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/Frh0Ww6WAAAwYEx?format=jpg&name=large",
@@ -1484,6 +1642,7 @@
   {
     "Unit_Name": "Rino",
     "level" : 271,
+    "Element" : "Fire",
     "3_star_icon": "https://i.imgur.com/zcAZTc2.png",
     "6_star_icon": "https://i.imgur.com/gHyvi3X.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/71/FullArtRino.png/revision/latest?cb=20191115022459",
@@ -1523,6 +1682,7 @@
   {
     "Unit_Name": "Rino (Wonder)",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/IOmaWuY.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/5e/FullArtWonderlandRino.png/revision/latest?cb=20200618120637",
@@ -1562,6 +1722,7 @@
   {
     "Unit_Name": "Rino (Christmas)",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/wdODziv.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/09/FullArtXRino.png/revision/latest?cb=20220101174109",
@@ -1601,6 +1762,7 @@
   {
     "Unit_Name": "Labyrista",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/njMDRdo.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/66/FullArtLabyrista.png/revision/latest?cb=20200831170305",
@@ -1640,6 +1802,7 @@
   {
     "Unit_Name": "Labyrista (Overload)",
     "level" : 271,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/j5EpVW1.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/b/b7/FullArtOverloadLabyrista.png/revision/latest?cb=20220225120503",
@@ -1679,6 +1842,7 @@
   {
     "Unit_Name": "Nozomi",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/iDehGQf.png",
     "6_star_icon": "https://i.imgur.com/AHYUcOs.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/55/FullArtNozomi.png/revision/latest?cb=20191115022732",
@@ -1718,6 +1882,7 @@
   {
     "Unit_Name": "Nozomi (Christmas)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/ZUln7FK.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/8/8d/FullArtChristmasNozomi.png/revision/latest?cb=20191130031028",
@@ -1757,6 +1922,7 @@
   {
     "Unit_Name": "Nozomi (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/jhljYzC.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/1c/FullArtSummerNozomi.png/revision/latest?cb=20210802001130",
@@ -1795,29 +1961,30 @@
   },
   {
     "Unit_Name": "Nozomi (Liberator)",
-    "level" : 268,
+    "level" : 298,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/VxsEprR.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/Fn7nYrZWIAAFOYx?format=jpg&name=large",
     "6_star_art": "None",
     "UB_icon" :"gold_physical",
     "UB_name": "Hope on Stage",
-    "UB": "Nozomi deals 99397 physical damage to the nearest enemy and lowers the target's P.DEF by 108. She also boosts the P.ATK of all allies that do physical attacks by 5918.",
+    "UB": "Nozomi deals 129955 physical damage to the nearest enemy and lowers the target's P.DEF by 120. She also boosts the P.ATK of all allies that do physical attacks by 6578.",
     "UB+_name": "None",
     "UB+": "None",
     "Skill_1_icon" :"silver_buff",
     "Skill_1_name": "Grow Elation",
-    "Skill_1": "Nozomi boosts the P.ATK, P.Critical and P.Critical Damage of all allies that do physical attacks by 5111, 125 and 10% respectively.",
-    "Skill_1+_name": "None",
-    "Skill_1+": "None",
+    "Skill_1": "Nozomi boosts the P.ATK, P.Critical and P.Critical Damage of all allies that do physical attacks by 5681, 125 and 10% respectively.",
+    "Skill_1+_name": "Grow Elation+",
+    "Skill_1+": "Nozomi boosts the P.ATK, P.Critical, P.Critical Damage and TP Fill Rate of all allies that do physical attacks by 8970, 150, 12% and 5 respectively.",
     "Skill_2_icon" :"silver_TP",
     "Skill_2_name": "Yell for Future",
-    "Skill_2": "Nozomi boosts the P.ATK of all allies that do physical attacks by 4573 and recovers their TP by 65.\nAfter the start of the battle, the first usage of this Skill increases the TP Recovery to 520 and lowers all enemies' P.DEF by 81.",
+    "Skill_2": "Nozomi boosts the P.ATK of all allies that do physical attacks by 5083 and recovers their TP by 65.\nAfter the start of the battle, the first usage of this Skill increases the TP Recovery to 520 and lowers all enemies' P.DEF by 90.",
     "Skill_2+_name" : "None",
     "Skill_2+" : "None",
     "EX_skill_icon" :"bronze_EX_buff",
     "EX_skill_name": "Hopeful Smile",
-    "EX_skill": "Nozomi's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.",
+    "EX_skill": "Nozomi's P.ATK goes up by 4485 (gains an additional +225 P.ATK at ★5) at the start of the battle.",
     "Special_Skills_1_icon" :"None",
     "Special_Skills_1_Name": "None",
     "Special_Skills_1": "None",
@@ -1835,6 +2002,7 @@
   {
     "Unit_Name": "Chika",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/w6J10Jc.png",
     "6_star_icon": "https://i.imgur.com/9s2BJ9I.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9f/FullArtChika.png/revision/latest?cb=20191115022833",
@@ -1874,6 +2042,7 @@
   {
     "Unit_Name": "Chika (Christmas)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/begpnFr.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/4/41/FullArtChristmasChika.png/revision/latest?cb=20191115022843",
@@ -1913,6 +2082,7 @@
   {
     "Unit_Name": "Chika (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/OZMT6SI.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/b/b3/FullArtSummerChika.png/revision/latest?cb=20210816235707",
@@ -1952,6 +2122,7 @@
   {
     "Unit_Name": "Tsumugi",
     "level" : 274,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/1ZSiGV6.png",
     "6_star_icon": "https://i.imgur.com/cta8xsG.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/6b/FullArtTsumugi.png/revision/latest?cb=20191115023008",
@@ -1991,6 +2162,7 @@
   {
     "Unit_Name": "Tsumugi (Halloween)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/3iuvzmE.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a2/FullArtHalloweenTsumugi.png/revision/latest?cb=20200930184736",
@@ -2030,6 +2202,7 @@
   {
     "Unit_Name": "Tsumugi (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/tcBlPip.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/e/ea/FullArtSummerTsumugi.png/revision/latest?cb=20210802011707",
@@ -2069,6 +2242,7 @@
   {
     "Unit_Name": "Misogi",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/TmsdjCQ.png",
     "6_star_icon": "https://i.imgur.com/JDNUxP9.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/3d/FullArtMisogi.png/revision/latest?cb=20191115023250",
@@ -2108,6 +2282,7 @@
   {
     "Unit_Name": "Misogi (Halloween)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/GmmyqzX.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/4/48/FullArtHMisogi.png/revision/latest?cb=20191115023302",
@@ -2147,6 +2322,7 @@
   {
     "Unit_Name": "Misogi (Summer)",
     "level" : 277,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/PqlWRdo.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/353981_main.jpg",
@@ -2186,6 +2362,7 @@
   {
     "Unit_Name": "Mimi",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/84J0pgR.png",
     "6_star_icon": "https://i.imgur.com/kiyVf6f.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/cc/FullArtMimi.png/revision/latest?cb=20191115023136",
@@ -2225,6 +2402,7 @@
   {
     "Unit_Name": "Mimi (Halloween)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/32LqVre.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/69/FullArtHalloweenMimi.png/revision/latest?cb=20191115023147",
@@ -2264,6 +2442,7 @@
   {
     "Unit_Name": "Mimi (Summer)",
     "level" : 277,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/hKRN3V6.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FsgtfpiWYAERQju?format=jpg&name=large",
@@ -2303,6 +2482,7 @@
   {
     "Unit_Name": "Kyouka",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/nXegisC.png",
     "6_star_icon": "https://i.imgur.com/Hg9q32B.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/8/88/FullArtKyouka.png/revision/latest?cb=20191115023353",
@@ -2342,6 +2522,7 @@
   {
     "Unit_Name": "Kyouka (Halloween)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/0LMgNtb.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/93/FullArtHKyouka.png/revision/latest?cb=20191115023404",
@@ -2381,6 +2562,7 @@
   {
     "Unit_Name": "Kyouka (Summer)",
     "level" : 277,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/tAzEgeW.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/358759_main.jpg",
@@ -2420,6 +2602,7 @@
   {
     "Unit_Name": "Misato",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/OoYiu2H.png",
     "6_star_icon": "https://i.imgur.com/edq0xM6.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a4/FullArtMisato.png/revision/latest?cb=20191115023657",
@@ -2459,6 +2642,7 @@
   {
     "Unit_Name": "Misato (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/jc8Iz7Z.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/d8/FullArtSummerMisato.png/revision/latest?cb=20200731191612",
@@ -2498,6 +2682,7 @@
   {
     "Unit_Name": "Misato (New Year)",
     "level" : 292,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/VBU13Ab.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FlrN293WAAImOWL?format=jpg&name=large",
@@ -2537,6 +2722,7 @@
   {
     "Unit_Name": "Aoi",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/cUlBGAJ.png",
     "6_star_icon": "https://i.imgur.com/7LpPjUt.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/c0/FullArtAoi.png/revision/latest?cb=20191115023745",
@@ -2576,6 +2762,7 @@
   {
     "Unit_Name": "Aoi (Transfer Student)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/ZWDpIAH.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/de/FullArtTransferStudentAoi.png/revision/latest?cb=20191115023755",
@@ -2615,6 +2802,7 @@
   {
     "Unit_Name": "Aoi (Workwear)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/CcbYLMz.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/18/FullArtMechanicAoi.png/revision/latest?cb=20210531065937",
@@ -2654,6 +2842,7 @@
   {
     "Unit_Name": "Aoi (Camp)",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/uG9cdHj.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/92/FullArtCampAoi.png/revision/latest?cb=20220618213728",
@@ -2693,6 +2882,7 @@
   {
     "Unit_Name": "Hatsune",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/EzC2kFt.png",
     "6_star_icon": "https://i.imgur.com/ulOZajl.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/f5/FullArtHatsune.png/revision/latest?cb=20191115023622",
@@ -2732,6 +2922,7 @@
   {
     "Unit_Name": "Hatsune (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/PDAvbk0.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/ab/FullArtSummerHatsune.png/revision/latest?cb=20200731175145",
@@ -2771,6 +2962,7 @@
   {
     "Unit_Name": "Hatsune (New Year)",
     "level" : 292,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/JqnBzVf.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431550_main.jpg",
@@ -2810,6 +3002,7 @@
   {
     "Unit_Name": "Ilya",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/2RiDmhG.png",
     "6_star_icon": "https://i.imgur.com/29f9eXr.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/68/FullArtIlya.png/revision/latest?cb=20191115023902",
@@ -2849,6 +3042,7 @@
   {
     "Unit_Name": "Ilya (Christmas)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/iIfNSoe.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/93/FullArtChristmasIlya.png/revision/latest?cb=20191220073436",
@@ -2888,6 +3082,7 @@
   {
     "Unit_Name": "Ilya (New Year)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/lNwz29H.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/61/FullArtNewYearIlya.png/revision/latest?cb=20220312224559",
@@ -2927,6 +3122,7 @@
   {
     "Unit_Name": "Ilya (Ritual Garment)",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/XSzzqbP.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/5f/Character_Illya%28Ceremonial%29_3_Art.png/revision/latest?cb=20230601080735",
@@ -2966,6 +3162,7 @@
   {
     "Unit_Name": "Akari",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/KBCLnOF.png",
     "6_star_icon": "https://i.imgur.com/f5fcXoB.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/2a/FullArtAkari.png/revision/latest?cb=20191115024202",
@@ -3005,6 +3202,7 @@
   {
     "Unit_Name": "Akari (Angel)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/lrYl5xD.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/90/FullArtAngelAkari.png/revision/latest?cb=20200903122556",
@@ -3044,6 +3242,7 @@
   {
     "Unit_Name": "Akari (Christmas)",
     "level" : 292,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/QTMHDiq.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/377559_main.jpg",
@@ -3083,6 +3282,7 @@
   {
     "Unit_Name": "Yori",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/KMOoqMV.png",
     "6_star_icon": "https://i.imgur.com/nLQ9VtY.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/57/FullArtYori.png/revision/latest?cb=20191115024122",
@@ -3122,6 +3322,7 @@
   {
     "Unit_Name": "Yori (Angel)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/2OK7MAe.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/c1/FullArtAngelYori.png/revision/latest?cb=20200919104915",
@@ -3161,6 +3362,7 @@
   {
     "Unit_Name": "Yori (Christmas)",
     "level" : 292,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/5JyERzC.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/377560_main.jpg",
@@ -3200,6 +3402,7 @@
   {
     "Unit_Name": "Shinobu",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/EPcAo4L.png",
     "6_star_icon": "https://i.imgur.com/o7QzeGQ.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/8/85/FullArtShinobu.png/revision/latest?cb=20191115024013",
@@ -3239,6 +3442,7 @@
   {
     "Unit_Name": "Shinobu (Halloween)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/dTXigyU.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/ae/FullArtHalloweenShinobu.png/revision/latest?cb=20191115024029",
@@ -3278,6 +3482,7 @@
   {
     "Unit_Name": "Shinobu (Pirate)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/TJaPHYL.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/f6/FullArtPirateShinobu.png/revision/latest?cb=20220505173521",
@@ -3317,6 +3522,7 @@
   {
     "Unit_Name": "Shinobu (Summer)",
     "level" : 280,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/FXGD94X.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/412482_main.jpg",
@@ -3356,6 +3562,7 @@
   {
     "Unit_Name": "Miyako",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/CYXfTaM.png",
     "6_star_icon": "https://i.imgur.com/2oPMpHV.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/f6/FullArtMiyako.png/revision/latest?cb=20191115024250",
@@ -3395,6 +3602,7 @@
   {
     "Unit_Name": "Miyako (Halloween)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/xasYSyG.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/60/Character_Miyako_%28Halloween%29_3_Art.jpg/revision/latest?cb=20230218153028",
@@ -3434,6 +3642,7 @@
   {
     "Unit_Name": "Miyako (Christmas)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/khdOKDm.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/ff/FullArtChristmasMiyako.png/revision/latest?cb=20211130161144",
@@ -3473,6 +3682,7 @@
   {
     "Unit_Name": "Jun",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/HCYDQLZ.png",
     "6_star_icon": "https://i.imgur.com/Lubz2is.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/aa/FullArtJun.png/revision/latest?cb=20191115024344",
@@ -3512,6 +3722,7 @@
   {
     "Unit_Name": "Jun (Summer)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/OcuiHF5.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/ad/FullArtSummerJun.png/revision/latest?cb=20200815171223",
@@ -3551,6 +3762,7 @@
   {
     "Unit_Name": "Jun (Christmas)",
     "level" : 292,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/Np4djUj.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FksJG9oWQAAqUcq?format=jpg&name=large",
@@ -3590,6 +3802,7 @@
   {
     "Unit_Name": "Tomo",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/avwIgYc.png",
     "6_star_icon": "https://i.imgur.com/BIHSV0b.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/b/ba/FullArtTomo.png/revision/latest?cb=20191115024519",
@@ -3629,6 +3842,7 @@
   {
     "Unit_Name": "Tomo (Magical)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/mjVm9BF.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/8/8d/FullArtMagicalGirlTomo.png/revision/latest?cb=20201121123950",
@@ -3668,6 +3882,7 @@
   {
     "Unit_Name": "Tomo (Halloween)",
     "level" : 286,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/LydIIZB.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/366031_main.jpg",
@@ -3707,6 +3922,7 @@
   {
     "Unit_Name": "Christina",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/xRDk2j0.png",
     "6_star_icon": "https://i.imgur.com/9KyXuTc.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/52/FullArtChristina.png/revision/latest?cb=20191115024428",
@@ -3746,6 +3962,7 @@
   {
     "Unit_Name": "Christina (Christmas)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/dGsVxLr.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/b/ba/FullArtChristmasChristina.png/revision/latest?cb=20191130031010",
@@ -3785,6 +4002,7 @@
   {
     "Unit_Name": "Christina (Wild)",
     "level" : 289,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/eheA119.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/370362_main.jpg",
@@ -3824,6 +4042,7 @@
   {
     "Unit_Name": "Matsuri",
     "level" : 277,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/YiPacJM.png",
     "6_star_icon": "https://i.imgur.com/oZXhrW4.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a1/FullArtMatsuri.png/revision/latest?cb=20191115024559",
@@ -3863,6 +4082,7 @@
   {
     "Unit_Name": "Matsuri (Halloween)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/4GkwuMp.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/0c/FullArtHalloweenMatsuri.png/revision/latest?cb=20200930175402",
@@ -3902,6 +4122,7 @@
   {
     "Unit_Name": "Matsuri (Wild)",
     "level" : 289,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/sgE3f2F.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/373272_main.jpg",
@@ -3941,6 +4162,7 @@
   {
     "Unit_Name": "Saren",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/3atcF5w.png",
     "6_star_icon": "https://i.imgur.com/IWfTS41.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/6f/FullArtSaren.png/revision/latest?cb=20191115024652",
@@ -3980,6 +4202,7 @@
   {
     "Unit_Name": "Saren (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/hUJ0VAG.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/70/FullArtSummerSaren.png/revision/latest?cb=20191115024707",
@@ -4019,6 +4242,7 @@
   {
     "Unit_Name": "Saren (Christmas)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/IlGvb6f.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/08/FullArtChristmasSaren.png/revision/latest?cb=20201222181927",
@@ -4058,6 +4282,7 @@
   {
     "Unit_Name": "Saren (Sarathalia)",
     "level" : 283,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/tJfhlGN.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/419773_main.jpg",
@@ -4097,6 +4322,7 @@
   {
     "Unit_Name": "Suzume",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/UQWbPna.png",
     "6_star_icon": "https://i.imgur.com/wTUYdui.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/1d/FullArtSuzume.png/revision/latest?cb=20191115024747",
@@ -4136,6 +4362,7 @@
   {
     "Unit_Name": "Suzume (Summer)",
     "level" : 280,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/a1tD1uc.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/d0/FullArtSummerSuzume.png/revision/latest?cb=20191115024756",
@@ -4175,6 +4402,7 @@
   {
     "Unit_Name": "Suzume (New Year)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/erNajIS.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/6e/FullArtNewYearSuzume.png/revision/latest?cb=20191231065021",
@@ -4214,6 +4442,7 @@
   {
     "Unit_Name": "Kurumi",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/ytOEXxH.png",
     "6_star_icon": "https://i.imgur.com/Tw0KwPe.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/c7/FullArtKurumi.png/revision/latest?cb=20191115024951",
@@ -4253,6 +4482,7 @@
   {
     "Unit_Name": "Kurumi (Christmas)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/62SHDjs.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/7a/FullArtChristmasKurumi.png/revision/latest?cb=20191115025003",
@@ -4292,6 +4522,7 @@
   {
     "Unit_Name": "Kurumi (Stage)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/7ucCLW6.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/d7/FullArtStageKurumi.png/revision/latest?cb=20220313200905",
@@ -4331,6 +4562,7 @@
   {
     "Unit_Name": "Ayane",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/gcHsY8w.png",
     "6_star_icon": "https://i.imgur.com/egoW0fu.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/5b/FullArtAyane.png/revision/latest?cb=20191115024846",
@@ -4370,6 +4602,7 @@
   {
     "Unit_Name": "Ayane (Christmas)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/puSXQaU.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/f4/FullArtChristmasAyane.png/revision/latest?cb=20191115024855",
@@ -4409,6 +4642,7 @@
   {
     "Unit_Name": "Ayane (Explorer)",
     "level" : 283,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/uf7PpK7.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/363350_main.jpg",
@@ -4448,6 +4682,7 @@
   {
     "Unit_Name": "Maho",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/lX2p8rT.png",
     "6_star_icon": "https://i.imgur.com/EKcGvVy.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/b/bd/FullArtMaho.png/revision/latest?cb=20191115025100",
@@ -4487,6 +4722,7 @@
   {
     "Unit_Name": "Maho (Summer)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/2J3948a.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/b/b4/FullArtSummerMaho.png/revision/latest?cb=20191115025114",
@@ -4526,6 +4762,7 @@
   {
     "Unit_Name": "Maho (Cinderella)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/ppToY3P.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/2c/FullArtCinderellaMaho.png/revision/latest?cb=20210322135922",
@@ -4565,6 +4802,7 @@
   {
     "Unit_Name": "Maho (Explorer)",
     "level" : 283,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/bkkGJFI.png",
     "6_star_icon": "None",
     "3_star_art": "https://i.redd.it/mofu-mofu-maho-explorer-all-the-way-v0-l3onwef5h4ua1.png?s=dfa636fe54f6778ea3c99ef05ac9717934d82590",
@@ -4604,6 +4842,7 @@
   {
     "Unit_Name": "Makoto",
     "level" : 283,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/03ohMWw.png",
     "6_star_icon": "https://i.imgur.com/oaFsdD3.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/1c/FullArtMakoto.png/revision/latest?cb=20191115025207",
@@ -4643,6 +4882,7 @@
   {
     "Unit_Name": "Makoto (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/H3CaZbx.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/cd/FullArtSummerMakoto.png/revision/latest?cb=20191115025218",
@@ -4682,6 +4922,7 @@
   {
     "Unit_Name": "Makoto (Cinderella)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/NzvyECp.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/3a/FullArtCinderellaMakoto.png/revision/latest?cb=20210307040432",
@@ -4721,6 +4962,7 @@
   {
     "Unit_Name": "Kaori",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/MRiudHC.png",
     "6_star_icon": "https://i.imgur.com/QnTsPLj.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/93/FullArtKaori.png/revision/latest?cb=20191115025309",
@@ -4760,6 +5002,7 @@
   {
     "Unit_Name": "Kaori (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/ZHo2ExQ.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/ab/FullArtSummerKaori.png/revision/latest?cb=20191115025322",
@@ -4799,6 +5042,7 @@
   {
     "Unit_Name": "Kaori (Halloween)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/bXj24Eh.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/11/FullArtHalloweenKaori.png/revision/latest?cb=20211002021946",
@@ -4838,6 +5082,7 @@
   {
     "Unit_Name": "Kasumi",
     "level" : 286,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/4bndFOG.png",
     "6_star_icon": "https://i.imgur.com/Gu9WghO.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a2/FullArtKasumi.png/revision/latest?cb=20191115025359",
@@ -4877,6 +5122,7 @@
   {
     "Unit_Name": "Kasumi (Magical)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/7aASJpy.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/2e/FullArtMagicalGirlKasumi.png/revision/latest?cb=20200131033820",
@@ -4916,6 +5162,7 @@
   {
     "Unit_Name": "Kasumi (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/JP6gF3k.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/3f/FullArtSummerKasumi.png/revision/latest?cb=20210224030726",
@@ -4953,8 +5200,49 @@
     "loop_pattern": "Attack → Skill 1 → Attack → Skill 2 → Skill 1 → Attack → Attack → Skill 2 → Skill 1 → Attack"
   },
   {
+    "Unit_Name": "Kasumi (New Year)",
+    "level" : 298,
+    "Element" :"Fire",
+    "3_star_icon": "https://i.imgur.com/AkEvocs.png",
+    "6_star_icon": "None",
+    "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431551_main.jpg",
+    "6_star_art": "None",
+    "UB_icon" :"gold_magical",
+    "UB_name": "New Discovery",
+    "UB": "Kasumi deals 49523 magical damage to all enemies in an area in front of her, heals all allies in an area around her for 20261 HP and boosts their M.ATK by 2990. \n The damage dealt and the potency of the M.ATK buff go up according to the number of allies and enemies (up to 10 characters).",
+    "UB+_name": "None",
+    "UB+": "None",
+    "Skill_1_icon" : "silver_healing",
+    "Skill_1_name": "Spinning Fortune",
+    "Skill_1": "Kasumi recovers the TP of the ally with the highest M.ATK by 25. She also boosts the M.ATK of all allies in an area around the target by 1495. \n The potency of this Skill goes up according to the number of allies and enemies (up to 10 characters).",
+    "Skill_1+_name": "None",
+    "Skill_1+": "None",
+    "Skill_2_icon" :"silver_buff",
+    "Skill_2_name": "Telling Circle",
+    "Skill_2": "Kasumi boosts the M.ATK of all allies in an area around her by 1495 and deals 33015 magical damage to all enemies in an area in front of her. \n The potency of this Skill goes up according to the number of allies and enemies (up to 10 characters). ",
+    "Skill_2+_name" : "None",
+    "Skill_2+" : "None",
+    "EX_skill_icon" :"bronze_EX_magical_atk",
+    "EX_skill_name": "New Year Truth",
+    "EX_skill": "Kasumi's M.ATK goes up by 4495 (gains an additional +225 M.ATK at ★5) at the start of the battle.",
+    "Special_Skills_1_icon" :"None",
+    "Special_Skills_1_Name": "None",
+    "Special_Skills_1": "None",
+    "Special_skills_1+_name": "None",
+    "Special_skills_1+": "None",
+    "Special_Skills_2_icon" :"None",
+    "Special_skills_2_Name": "None",
+    "Special_skills_2": "None",
+    "Special_skills_3_icon" :"None",
+    "Special_Skills_3_Name": "None",
+    "Special_skills_3": "None",
+    "initial_movement": "Skill 1 → Skill 2",
+    "loop_pattern": "Attack → Skill 1 → Attack → Skill 2"
+  },
+  {
     "Unit_Name": "Mahiru",
     "level" : 289,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/A5QdTwO.png",
     "6_star_icon": "https://i.imgur.com/h8LZDh8.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/7b/FullArtMahiru.png/revision/latest?cb=20191115025451",
@@ -4994,6 +5282,7 @@
   {
     "Unit_Name": "Mahiru (Ranger)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/8NF9ZqV.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/cd/FullArtRangerMahiru.png/revision/latest?cb=20200515061450",
@@ -5033,6 +5322,7 @@
   {
     "Unit_Name": "Mahiru (Christmas)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/CjlHgVs.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/37/FullArtChristmasMahiru.png/revision/latest?cb=20211130165343",
@@ -5072,6 +5362,7 @@
   {
     "Unit_Name": "Rima",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/Dx6L7te.png",
     "6_star_icon": "https://i.imgur.com/XF8UFW8.gif",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/65/FullArtRima.png/revision/latest?cb=20191115025649",
@@ -5111,6 +5402,7 @@
   {
     "Unit_Name": "Rima (Cinderella)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/nBIMAJy.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/e/e2/FullArtCinderellaRima.png/revision/latest?cb=20210611051929",
@@ -5150,6 +5442,7 @@
   {
     "Unit_Name": "Shiori",
     "level" : 289,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/N1PjqDv.png",
     "6_star_icon": "https://i.imgur.com/wodns6z.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/4/44/FullArtShiori.png/revision/latest?cb=20191115025613",
@@ -5189,6 +5482,7 @@
   {
     "Unit_Name": "Shiori (Magical)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/Mxn6Ce4.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/63/FullArtMagicalGirlShiori.png/revision/latest?cb=20200131033844",
@@ -5228,6 +5522,7 @@
   {
     "Unit_Name": "Shiori (Ranger)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/CPkcx2R.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FtdLOw4X0AQrDqp?format=jpg&name=large",
@@ -5267,6 +5562,7 @@
   {
     "Unit_Name": "Rin",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/uJngcmL.png",
     "6_star_icon": "https://i.imgur.com/VvvQi5j.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/d3/FullArtRin.png/revision/latest?cb=20191115025531",
@@ -5306,6 +5602,7 @@
   {
     "Unit_Name": "Rin (Ranger)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/uXzIeJj.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/f1/FullArtRangerRin.png/revision/latest?cb=20200430032931",
@@ -5345,6 +5642,7 @@
   {
     "Unit_Name": "Rin (Halloween)",
     "level" : 286,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/FNYSIEk.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/366032_main.jpg",
@@ -5384,6 +5682,7 @@
   {
     "Unit_Name": "Akino",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/Bfq4NZo.png",
     "6_star_icon": "https://i.imgur.com/dAscH3j.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a4/FullArtAkino.png/revision/latest?cb=20191115025741",
@@ -5423,6 +5722,7 @@
   {
     "Unit_Name": "Akino (Christmas)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/4EoiI4Y.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/ce/FullArtChristmasAkino.png/revision/latest?cb=20201130233203",
@@ -5462,6 +5762,7 @@
   {
     "Unit_Name": "Akino (Summer)",
     "level" : 274,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/qLWGUCE.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/406511_main.jpg",
@@ -5501,6 +5802,7 @@
   {
     "Unit_Name": "Tamaki",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/A83SSiR.png",
     "6_star_icon": "https://i.imgur.com/mY36QKx.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/00/FullArtTamaki.png/revision/latest?cb=20191115030019",
@@ -5540,6 +5842,7 @@
   {
     "Unit_Name": "Tamaki (Summer)",
     "level" : 280,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/xG2yqM4.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/d3/FullArtSummerTamaki.png/revision/latest?cb=20191115030029",
@@ -5579,6 +5882,7 @@
   {
     "Unit_Name": "Tamaki (Workwear)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/MdNOIm5.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/e/e6/FullArtMechanicTamaki.png/revision/latest?cb=20210531071749",
@@ -5618,6 +5922,7 @@
   {
     "Unit_Name": "Tamaki (Cafe)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/m8lNDJ0.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FqZyW0iXgAMnBVw?format=jpg&name=large",
@@ -5657,6 +5962,7 @@
   {
     "Unit_Name": "Mifuyu",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/YAgCNeS.png",
     "6_star_icon": "https://i.imgur.com/fh4JfKA.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/f3/FullArtMifuyu.png/revision/latest?cb=20191115025915",
@@ -5696,6 +6002,7 @@
   {
     "Unit_Name": "Mifuyu (Summer)",
     "level" : 280,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/Cr06GnO.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/92/FullArtSummerMifuyu.png/revision/latest?cb=20191115025927",
@@ -5735,6 +6042,7 @@
   {
     "Unit_Name": "Mifuyu (Workwear)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/HIvD1yQ.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/7b/FullArtMechanicMifuyu.png/revision/latest?cb=20210616114440",
@@ -5774,6 +6082,7 @@
   {
     "Unit_Name": "Yukari",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/NALo0vM.png",
     "6_star_icon": "https://i.imgur.com/daxs0RQ.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/75/FullArtYukari.png/revision/latest?cb=20191115025824",
@@ -5813,6 +6122,7 @@
   {
     "Unit_Name": "Yukari (Christmas)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/X9Hudio.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/3e/FullArtChristmasYukari.png/revision/latest?cb=20201130201726",
@@ -5852,6 +6162,7 @@
   {
     "Unit_Name": "Yukari (Camp)",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/GmDz2o5.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/20/CampYukariFullArt.png/revision/latest?cb=20220602233236",
@@ -5891,6 +6202,7 @@
   {
     "Unit_Name": "Yukari (Summer)",
     "level" : 274,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/04dQitZ.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/408845_main.jpg",
@@ -5930,6 +6242,7 @@
   {
     "Unit_Name": "Nanaka",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/SuAFZyL.png",
     "6_star_icon": "https://i.imgur.com/m5vo3fk.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/ff/FullArtNanaka.png/revision/latest?cb=20191115030344",
@@ -5969,6 +6282,7 @@
   {
     "Unit_Name": "Nanaka (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/yYkhz2f.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/8/8d/FullArtSummerNanaka.png/revision/latest?cb=20200715185530",
@@ -6008,6 +6322,7 @@
   {
     "Unit_Name": "Nanaka (Halloween)",
     "level" : 286,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/DmQ8LeD.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/367533_main.jpg",
@@ -6047,6 +6362,7 @@
   {
     "Unit_Name": "Anna",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/zqJq2pF.png",
     "6_star_icon": "https://i.imgur.com/VvxYwUC.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/05/FullArtAnna.png/revision/latest?cb=20191115030105",
@@ -6086,6 +6402,7 @@
   {
     "Unit_Name": "Anna (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/ELJfQj7.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/07/FullArtSummerAnna.png/revision/latest?cb=20200630114029",
@@ -6125,6 +6442,7 @@
   {
     "Unit_Name": "Anna (Pirate)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/jtPfkc1.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/61/FullArtPirateAnna.png/revision/latest?cb=20220521232704",
@@ -6164,6 +6482,7 @@
   {
     "Unit_Name": "Ruka",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/bSer199.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/e/eb/FullArtRuka.png/revision/latest?cb=20191115030144",
@@ -6203,6 +6522,7 @@
   {
     "Unit_Name": "Ruka (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/kUbLWUC.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9e/FullArtSummerRuka.png/revision/latest?cb=20200703182602",
@@ -6242,6 +6562,7 @@
   {
     "Unit_Name": "Ruka (New Year)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/uuy8YOK.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/0/07/FullArtNewYearRuka.png/revision/latest?cb=20220312213923",
@@ -6281,6 +6602,7 @@
   {
     "Unit_Name": "Ruka (Sarasaria)",
     "level" : 286,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/DGHUz8O.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/419775_main.jpg",
@@ -6320,6 +6642,7 @@
   {
     "Unit_Name": "Eriko",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/oCzacXn.png",
     "6_star_icon": "https://i.imgur.com/HCGSVXG.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9f/FullArtEriko.png/revision/latest?cb=20191115030227",
@@ -6359,6 +6682,7 @@
   {
     "Unit_Name": "Eriko (Valentine)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/vtduTzo.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/19/FullArtValentineEriko.png/revision/latest?cb=20191115030250",
@@ -6398,6 +6722,7 @@
   {
     "Unit_Name": "Eriko (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/RyjUfTS.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/57/FullArtSummerEriko.png/revision/latest?cb=20210703173604",
@@ -6437,6 +6762,7 @@
   {
     "Unit_Name": "Mitsuki",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/wQmNr2R.png",
     "6_star_icon": "https://i.imgur.com/D7VRLeR.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/b/bf/FullArtMitsuki.png/revision/latest?cb=20191115030431",
@@ -6476,6 +6802,7 @@
   {
     "Unit_Name": "Mitsuki (Ooedo)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/SYLCiDZ.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/56/FullArtOoedoMitsuki.png/revision/latest?cb=20210907100712",
@@ -6515,6 +6842,7 @@
   {
     "Unit_Name": "Mitsuki (New Year)",
     "level" : 292,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/KXeCDtr.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/381658_main.jpg",
@@ -6554,6 +6882,7 @@
   {
     "Unit_Name": "Io",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/y0wufM6.png",
     "6_star_icon": "https://i.imgur.com/p6R6iXD.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/e/e0/FullArtIo.png/revision/latest?cb=20191115030523",
@@ -6593,6 +6922,7 @@
   {
     "Unit_Name": "Io (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/uSnQWNd.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/e/ea/FullArtSummerIo.png/revision/latest?cb=20191115030534",
@@ -6632,6 +6962,7 @@
   {
     "Unit_Name": "Io (Noir)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/WNTFIfd.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/35/FullArtNoireIo.png/revision/latest?cb=20211103150043",
@@ -6671,6 +7002,7 @@
   {
     "Unit_Name": "Misaki",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/aMUrp5e.png",
     "6_star_icon": "https://i.imgur.com/tKoaQ9b.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/23/FullArtMisaki.png/revision/latest?cb=20191115030713",
@@ -6710,6 +7042,7 @@
   {
     "Unit_Name": "Misaki (Halloween)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/xP6UxB0.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/d1/FullArtHalloweenMisaki.png/revision/latest?cb=20191115030724",
@@ -6749,6 +7082,7 @@
   {
     "Unit_Name": "Misaki (Stage)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/0tVaBX0.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/25/FullArtStageMisaki.png/revision/latest?cb=20220320031840",
@@ -6788,6 +7122,7 @@
   {
     "Unit_Name": "Suzuna",
     "level" : 283,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/94BgazK.png",
     "6_star_icon": "https://i.imgur.com/82GL2Bb.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/29/FullArtSuzuna.png/revision/latest?cb=20191115030606",
@@ -6827,6 +7162,7 @@
   {
     "Unit_Name": "Suzuna (Summer)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/HaOvOyC.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/fc/FullArtSummerSuzuna.png/revision/latest?cb=20191115030617",
@@ -6866,6 +7202,7 @@
   {
     "Unit_Name": "Suzuna (Halloween)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/v8emIXK.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/24/FullArtHalloweenSuzuna.png/revision/latest?cb=20211016111356",
@@ -6905,6 +7242,7 @@
   {
     "Unit_Name": "Suzuna (Transfer Student)",
     "level" : 283,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/7i3Hbf2.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/415811_main.jpg",
@@ -6944,6 +7282,7 @@
   {
     "Unit_Name": "Monika",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/ka3Z4dm.png",
     "6_star_icon": "https://i.imgur.com/trcRkkt.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/23/FullArtMonika.png/revision/latest?cb=20191115030759",
@@ -6983,6 +7322,7 @@
   {
     "Unit_Name": "Monika (Magical)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/SzSoSKY.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/b/b9/FullArtMagicalGirlMonika.png/revision/latest?cb=20201101134206",
@@ -7022,6 +7362,7 @@
   {
     "Unit_Name": "Monika (Cafe)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/CphYvZ8.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/Fq4pWcNX0AkqGEs?format=jpg&name=large",
@@ -7061,6 +7402,7 @@
   {
     "Unit_Name": "Kuuka",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/LM4MNwL.png",
     "6_star_icon": "https://i.imgur.com/omwd7GC.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/cd/FullArtKuuka.png/revision/latest?cb=20191115030926",
@@ -7100,6 +7442,7 @@
   {
     "Unit_Name": "Kuuka (Ooedo)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/QFhnaQL.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/55/FullArtOKuuka.png/revision/latest?cb=20191115030936",
@@ -7139,6 +7482,7 @@
   {
     "Unit_Name": "Kuuka (Noir)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/mYPTBhj.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/5/50/FullArtNKuuka.png/revision/latest?cb=20211117053104",
@@ -7178,6 +7522,7 @@
   {
     "Unit_Name": "Kuuka (Summer)",
     "level" : 277,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/aQgclaM.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/410708_main.jpg",
@@ -7217,6 +7562,7 @@
   {
     "Unit_Name": "Ayumi",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/uFLD2Pe.png",
     "6_star_icon": "https://i.imgur.com/LyU8X66.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9f/FullArtAyumi.png/revision/latest?cb=20191115031040",
@@ -7256,6 +7602,7 @@
   {
     "Unit_Name": "Ayumi (Wonder)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/a3TmQkA.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/b/b1/FullArtWonderlandAyumi.png/revision/latest?cb=20200531042501",
@@ -7295,6 +7642,7 @@
   {
     "Unit_Name": "Ayumi (Phantom Thief)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/gR7950d.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9e/FullArtPTAyumi.png/revision/latest?cb=20220417165416",
@@ -7334,6 +7682,7 @@
   {
     "Unit_Name": "Ninon",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/hE3MjLr.png",
     "6_star_icon": "https://i.imgur.com/lnJ7Xz2.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/71/FullArtNinon.png/revision/latest?cb=20191115030835",
@@ -7373,6 +7722,7 @@
   {
     "Unit_Name": "Ninon (Ooedo)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/NdlFqLT.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/2c/FullArtONinon.png/revision/latest?cb=20191115030846",
@@ -7412,6 +7762,7 @@
   {
     "Unit_Name": "Ninon (Halloween)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/jqiDNwy.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/64/FullArtHalloweenNinon.png/revision/latest?cb=20211002020731",
@@ -7451,6 +7802,7 @@
   {
     "Unit_Name": "Yuki",
     "level" : 271,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/onVOmyB.png",
     "6_star_icon": "https://i.imgur.com/NqjYami.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/11/FullArtYuki.png/revision/latest?cb=20191115031005",
@@ -7490,6 +7842,7 @@
   {
     "Unit_Name": "Yuki (Ooedo)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/4K0rHhF.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/72/FullArtOoedoYuki.png/revision/latest?cb=20210913202934",
@@ -7529,6 +7882,7 @@
   {
     "Unit_Name": "Yuki (Ritual Garment)",
     "level" : 271,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/fsTJzwh.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FyuN2cwX0AESTti?format=jpg&name=large",
@@ -7568,6 +7922,7 @@
   {
     "Unit_Name": "Chloe",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/tobbrq8.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/3a/FullArtChloe.png/revision/latest?cb=20191115031116",
@@ -7607,6 +7962,7 @@
   {
     "Unit_Name": "Chloe (School Festival)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/uYWtb97.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/e/e5/FullArtSchoolFestivalChloe.png/revision/latest?cb=20210415123725",
@@ -7646,6 +8002,7 @@
   {
     "Unit_Name": "Yuni",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/VMflRQ4.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/8/86/FullArtYuni.png/revision/latest?cb=20200402135726",
@@ -7685,6 +8042,7 @@
   {
     "Unit_Name": "Yuni (School Festival)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/k0CTx7u.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/71/FullArtSchoolFestivalYuni.png/revision/latest?cb=20220313030207",
@@ -7724,6 +8082,7 @@
   {
     "Unit_Name": "Chieru",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/Jbr6wER.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/30/FullArtChieru.png/revision/latest?cb=20200415172418",
@@ -7763,6 +8122,7 @@
   {
     "Unit_Name": "Chieru (School Festival)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/CqJ4S1w.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a2/FullArtSchoolFestivalChieru.png/revision/latest?cb=20210401134929",
@@ -7802,6 +8162,7 @@
   {
     "Unit_Name": "Kaya",
     "level" : 292,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/peYEjNc.png",
     "6_star_icon": "https://i.imgur.com/VB290K7.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/21/FullArtKaya.png/revision/latest?cb=20191115060025",
@@ -7841,6 +8202,7 @@
   {
     "Unit_Name": "Kaya (Time Travel)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/iaxVwRu.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/f2/FullArtTimeTravelKaya.png/revision/latest?cb=20210522161640",
@@ -7880,6 +8242,7 @@
   {
     "Unit_Name": "Kaya (Liberator)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/Wa0R75P.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/385732_main.jpg",
@@ -7919,6 +8282,7 @@
   {
     "Unit_Name": "Inori",
     "level" : 292,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/h5FBH8X.png",
     "6_star_icon": "https://i.imgur.com/knCkh8A.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/34/FullArtInori.png/revision/latest?cb=20200617163838",
@@ -7958,6 +8322,7 @@
   {
     "Unit_Name": "Inori (Time Travel)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/8qIZtPP.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/e/e9/FullArtTimeTravelInori.png/revision/latest?cb=20210502133845",
@@ -7997,6 +8362,7 @@
   {
     "Unit_Name": "Inori (Phantom Thief)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/WA1TJNe.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/7a/FullArtPTInori.png/revision/latest?cb=20220418234239",
@@ -8036,6 +8402,7 @@
   {
     "Unit_Name": "Inori (New Year)",
     "level" : 292,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/lLnuQAi.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431553_main.jpg",
@@ -8075,6 +8442,7 @@
   {
     "Unit_Name": "Homare",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/hh5X4Wg.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/77/FullArtHomare.png/revision/latest/scale-to-width-down/1000?cb=20211101193146",
@@ -8114,6 +8482,7 @@
   {
     "Unit_Name": "Homare (New Year)",
     "level" : 292,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/lAYv90P.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/384461_main.jpg",
@@ -8153,6 +8522,7 @@
   {
     "Unit_Name": "Creditta",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/LEngjvF.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/d7/FullArtCreditta.png/revision/latest/scale-to-width-down/1000?cb=20210919122724",
@@ -8192,6 +8562,7 @@
   {
     "Unit_Name": "Creditta (Christmas) ",
     "level" : 292,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/wy7PVtm.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/427339_main.jpg",
@@ -8231,6 +8602,7 @@
   {
     "Unit_Name": "Ranpha",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/zvIQzyM.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/c/c2/FullArtRanpha.png/revision/latest?cb=20220313014728",
@@ -8270,6 +8642,7 @@
   {
     "Unit_Name": "Ranpha (Summer)",
     "level" : 277,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/YrR3k8x.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/410707_main.jpg",
@@ -8309,6 +8682,7 @@
   {
     "Unit_Name": "Nea",
     "level" : 283,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/2D8sTwH.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/Ful5hF-XsAIVUtk?format=jpg&name=large",
@@ -8348,6 +8722,7 @@
   {
     "Unit_Name": "Misora",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/ArJWoIr.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FqEeYlsXwAQrT1q?format=jpg&name=large",
@@ -8387,6 +8762,7 @@
   {
     "Unit_Name": "Riri (Fallen)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/MjpCXgm.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/70/Character_Riri_%28Fallen%29_3_Art.jpg/revision/latest?cb=20230419130354",
@@ -8426,6 +8802,7 @@
   {
     "Unit_Name": "Quria (Fallen)",
     "level" : 286,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/rYrEdHh.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/422889_main.jpg",
@@ -8465,6 +8842,7 @@
   {
     "Unit_Name": "Precia (Fallen)",
     "level" : 289,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/OqomkYA.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/422890_main.jpg",
@@ -8504,6 +8882,7 @@
   {
     "Unit_Name": "Croce",
     "level" : 274,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/t1BYcgi.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/406510_main.jpg",
@@ -8543,6 +8922,7 @@
   {
     "Unit_Name": "Lailael",
     "level" : 280,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/TuosSMh.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/412483_main.jpg",
@@ -8582,6 +8962,7 @@
   {
     "Unit_Name": "Djeeta",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/GqTek16.png",
     "6_star_icon": "https://i.imgur.com/Izz8SbZ.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/e/eb/FullArtDjeeta.png/revision/latest?cb=20191115031201",
@@ -8621,6 +9002,7 @@
   {
     "Unit_Name": "Djeeta (Warlock)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/YlEBFpz.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FvFWJTIWIAAHkQv?format=jpg&name=large",
@@ -8660,6 +9042,7 @@
   {
     "Unit_Name": "Vikala",
     "level" : 271,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/g36ladQ.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/396805_main.jpg",
@@ -8699,6 +9082,7 @@
   {
     "Unit_Name": "Arisa",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/XCdaoIh.png",
     "6_star_icon": "https://i.imgur.com/MMM3Ty7.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/67/FullArtArisa.png/revision/latest?cb=20191115031237",
@@ -8738,6 +9122,7 @@
   {
     "Unit_Name": "Luna",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/KOuJPKK.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/8/8a/FullArtLuna.png/revision/latest?cb=20191115031253",
@@ -8777,6 +9162,7 @@
   {
     "Unit_Name": "Anne",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/eJAtAQW.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/7a/FullArtAnne.png/revision/latest?cb=20191115031518",
@@ -8816,6 +9202,7 @@
   {
     "Unit_Name": "Grea",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/pDEaRTI.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/2/2d/FullArtGrea.png/revision/latest?cb=20191115031338",
@@ -8855,6 +9242,7 @@
   {
     "Unit_Name": "Lou",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/zgRLA0Q.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/98/FullArtLou.png/revision/latest?cb=20191115031555",
@@ -8894,6 +9282,7 @@
   {
     "Unit_Name": "Vampy",
     "level" : 271,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/GFcnVZR.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/33/FullArtVampy.png/revision/latest?cb=20220623183810",
@@ -8933,6 +9322,7 @@
   {
     "Unit_Name": "Muimi",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/lC5d7bu.png",
     "6_star_icon": "https://i.imgur.com/EawIjUe.png",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/4/43/FullArtMuimi.png/revision/latest?cb=20191115031732",
@@ -8972,6 +9362,7 @@
   {
     "Unit_Name": "Muimi (New Year)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/pnhM9tm.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/3/30/FullArtNewYearMuimi.png/revision/latest?cb=20210114160743",
@@ -9010,37 +9401,38 @@
   },
   {
     "Unit_Name": "Muimi (Liberator)",
-    "level" : 268,
+    "level" : 298,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/0tTDf4p.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/387304_main.jpg",
     "6_star_art": "None",
     "UB_icon" :"gold_field",
     "UB_name": "Shinki Tenrou Soujingeki",
-    "UB": "Muimi unleashes \"Proof of Bond\" and fights together with Octo. While fighting together with Octo, UB will not activate even if TP gauge is full.\nWhile \"Proof of Bond\" is unleashed, Muimi boosts her P.Critical Damage by 7% and Action Speed by a large amount (+80%). This Skill's effect stacks with other Action Speed modifiers.\nMuimi also deals 261078 physical damage to the nearest enemy.",
+    "UB": "Muimi unleashes \"Proof of Bond\" and fights together with Octo. While fighting together with Octo, UB will not activate even if TP gauge is full.\nWhile \"Proof of Bond\" is unleashed, Muimi boosts her P.Critical Damage by 7% and Action Speed by a large amount (+80%). This Skill's effect stacks with other Action Speed modifiers.\nMuimi also deals 339926 physical damage to the nearest enemy.",
     "UB+_name": "None",
     "UB+": "None",
     "Skill_1_icon" :"silver_physical",
     "Skill_1_name": "Tenrou Gekkuusen",
-    "Skill_1": "Muimi deals 87026 physical damage to the nearest enemy and lowers the target's P.DEF by 108.",
-    "Skill_1+_name": "None",
-    "Skill_1+": "None",
+    "Skill_1": "Muimi deals 113308 physical damage to the nearest enemy and lowers the target's P.DEF by 120.",
+    "Skill_1+_name": "Tenrou Gekkuusen+",
+    "Skill_1+": "Muimi deals 187038 physical damage to the nearest enemy and lowers the target's P.DEF by 150.",
     "Skill_2_icon" :"silver_physical",
     "Skill_2_name": "Tenrou Gouhajin",
-    "Skill_2": "Muimi boosts her P.ATK and P.Critical by 6725 and 100 respectively and deals 87026 physical damage to the nearest enemy.",
+    "Skill_2": "Muimi boosts her P.ATK and P.Critical by 7475 and 100 respectively and deals 113308 physical damage to the nearest enemy.",
     "Skill_2+_name" : "None",
     "Skill_2+" : "None",
     "EX_skill_icon" :"bronze_EX_buff",
     "EX_skill_name": "Future's Force",
-    "EX_skill": "Muimi's P.ATK goes up by 4035 (gains an additional +225 P.ATK at ★5) at the start of the battle.",
+    "EX_skill": "Muimi's P.ATK goes up by 4485 (gains an additional +225 P.ATK at ★5) at the start of the battle.",
     "Special_Skills_1_icon" :"silver_physical",
     "Special_Skills_1_Name": "Tenrou Gekkuusen",
-    "Special_Skills_1": "Muimi deals 87026 physical damage to the nearest enemy and lowers the target's P.DEF by 216. She also deals a further 174052 physical damage to the target.",
-    "Special_skills_1+_name": "None",
-    "Special_skills_1+": "None",
+    "Special_Skills_1": "Muimi deals 113308 physical damage to the nearest enemy and lowers the target's P.DEF by 240. She also deals a further 226617 physical damage to the target.",
+    "Special_skills_1+_name": "Tenrou Gekkuusen+",
+    "Special_skills_1+": "Muimi deals 187038 physical damage to the nearest enemy and lowers the target's P.DEF by 240. \n She also deals a further 233797 physical damage to the target and lower the target's P.DEF by 30.",
     "Special_Skills_2_icon" :"silver_physical",
     "Special_skills_2_Name": "Tenrou Gouhajin",
-    "Special_skills_2": "Muimi boosts her P.ATK and P.Critical by 13450 and 200 respectively and deals 87026 physical damage to the nearest enemy. She also deals a further 174052 physical damage to the target.",
+    "Special_skills_2": "Muimi boosts her P.ATK and P.Critical by 14950 and 200 respectively and deals 113308 physical damage to the nearest enemy. She also deals a further 226617 physical damage to the target.",
     "Special_skills_3_icon" :"None",
     "Special_Skills_3_Name": "None",
     "Special_skills_3": "None",
@@ -9050,6 +9442,7 @@
   {
     "Unit_Name": "Neneka",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/HKRMuga.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/7/75/FullArtNeneka.png/revision/latest?cb=20191115031814",
@@ -9090,6 +9483,7 @@
   {
     "Unit_Name": "Neneka (New Year)",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/7VTAzB2.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/8/86/FullArtNewYearNeneka.png/revision/latest?cb=20210125011521",
@@ -9129,6 +9523,7 @@
   {
     "Unit_Name": "Neneka (Summer)",
     "level" : 274,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/kNDffTm.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/406863_main.jpg",
@@ -9168,6 +9563,7 @@
   {
     "Unit_Name": "Karin",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/UVGNXWk.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/fd/FullArtKarin.png/revision/latest?cb=20211023094446",
@@ -9207,6 +9603,7 @@
   {
     "Unit_Name": "Karin (Alchemist)",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/wijfReS.png",
     "6_star_icon": "None",
     "3_star_art": "https://pbs.twimg.com/media/FvKL86UXwAM1dWp?format=jpg&name=large",
@@ -9246,6 +9643,7 @@
   {
     "Unit_Name": "Kaiser Insight",
     "level" : 268,
+    "Element" :"Dark",
     "3_star_icon": "https://i.imgur.com/H2DzdP4.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/373062_main.jpg",
@@ -9285,6 +9683,7 @@
   {
     "Unit_Name": "Ameth",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/PT7KNbP.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/358762_main.jpg",
@@ -9324,6 +9723,7 @@
   {
     "Unit_Name": "Hatsune & Shiori",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/n7domTc.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/d/d3/FullArtHatsune%26Shiori.png/revision/latest?cb=20210831091939",
@@ -9363,6 +9763,7 @@
   {
     "Unit_Name": "Misogi & Mimi & Kyouka",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/HiCGYSp.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/f/f9/FullArtLittleLyricalCard.png/revision/latest?cb=20220101221703",
@@ -9402,6 +9803,7 @@
   {
     "Unit_Name": "Akino & Saren",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/swHe6pw.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/a/a3/FullArtAkino%26Saren.png/revision/latest?cb=20220501194104",
@@ -9441,6 +9843,7 @@
   {
     "Unit_Name": "Anne & Grea",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/g4WmnmD.png",
     "6_star_icon": "None",
     "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/381218_main.jpg",
@@ -9478,8 +9881,49 @@
     "loop_pattern": "Attack → Skill 1 → Attack → Skill 1 → Attack → Skill 1 → Skill 1"
   },
   {
+    "Unit_Name": "Shizuru & Rino",
+    "level" : 298,
+    "Element" :"Light",
+    "3_star_icon": "https://i.imgur.com/SejREGm.png",
+    "6_star_icon": "None",
+    "3_star_art": "https://img.gamewith.jp/article_tools/pricone-re/gacha/431545_main.jpg",
+    "6_star_art": "None",
+    "UB_icon" :"gold_physical",
+    "UB_name": "Sacred Rain",
+    "UB": "Shizuru and Rino do 2 attacks that each deal 108248 physical damage to the nearest enemy, and heal their HP by 20355. This Skill does 3.5 times damage instead of 2 times when it procs Critical hits. \n They also deploy a Field behind them that boosts P.ATK and P.Critical by 8372 and 150 respectively.",
+    "UB+_name": "None",
+    "UB+": "None",
+    "Skill_1_icon" :"silver_physical",
+    "Skill_1_name": "Saint Arrow",
+    "Skill_1": "Shizuru and Rino do 2 attacks that each deal 54124 physical damage to the nearest enemy. This Skill does 3.5 times damage instead of 2 times when it procs Critical hits.\n 【When Field is deployed】Shizuru and Rino recover the TP of all allies by 75.",
+    "Skill_1+_name": "None",
+    "Skill_1+": "None",
+    "Skill_2_icon" :"silver_buff",
+    "Skill_2_name": "Precious Connection",
+    "Skill_2": "Shizuru and Rino deploy a Barrier that negates up to 5980 physical damage on themselves and boost their P.ATK, P.Critical and P.Critical Damage by 11960, 400 and 15% respectively. \n【When Field is deployed】Potency of the Barrier goes up to 17940, and Shizuru and Rino lower the P.DEF of all enemies by 120.",
+    "Skill_2+_name" : "None",
+    "Skill_2+" : "None",
+    "EX_skill_icon" :"bronze_EX_buff",
+    "EX_skill_name": "Manaria Heart",
+    "EX_skill": "Shizuru & Rino's P.Critical goes up by 318 (gains an additional +300 P.Critical at ★5) at the start of the battle.",
+    "Special_Skills_1_icon" :"None",
+    "Special_Skills_1_Name": "None",
+    "Special_Skills_1": "None",
+    "Special_skills_1+_name": "None",
+    "Special_skills_1+": "None",
+    "Special_Skills_2_icon" :"None",
+    "Special_skills_2_Name": "None",
+    "Special_skills_2": "None",
+    "Special_skills_3_icon" :"None",
+    "Special_Skills_3_Name": "None",
+    "Special_skills_3": "None",
+    "initial_movement": "Skill 2 → Skill 1",
+    "loop_pattern": "Attack → Skill 2 → Skill 1 → Attack → Skill 2 → Attack → Skill 1 → Attack → Skill 2 → Skill 1"
+  },
+  {
     "Unit_Name": "Emilia",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/0tb7XJ4.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/4/4f/FullArtEmilia.png/revision/latest?cb=20191115031618",
@@ -9519,6 +9963,7 @@
   {
     "Unit_Name": "Rem",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/67S4T9d.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/97/FullArtRem.png/revision/latest?cb=20191115031636",
@@ -9558,6 +10003,7 @@
   {
     "Unit_Name": "Ram",
     "level" : 268,
+    "Element" :"Wind",
     "3_star_icon": "https://i.imgur.com/HpY6dAQ.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/6/69/FullArtRam.png/revision/latest?cb=20191115031712",
@@ -9597,6 +10043,7 @@
   {
     "Unit_Name": "Uzuki (Deremasu)",
     "level" : 268,
+    "Element" :"Light",
     "3_star_icon": "https://i.imgur.com/bxz0PLN.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/4/4e/FullArtUzuki.png/revision/latest?cb=20200229034148",
@@ -9636,6 +10083,7 @@
   {
     "Unit_Name": "Mio (Deremasu)",
     "level" : 268,
+    "Element" :"Fire",
     "3_star_icon": "https://i.imgur.com/LeYA1jO.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/1/14/FullArtMio.png/revision/latest?cb=20200229034202",
@@ -9675,6 +10123,7 @@
   {
     "Unit_Name": "Rin (Deremasu)",
     "level" : 268,
+    "Element" :"Water",
     "3_star_icon": "https://i.imgur.com/GrnAIad.png",
     "6_star_icon": "None",
     "3_star_art": "https://static.wikia.nocookie.net/princess-connect/images/9/9a/FullArtDRin.png/revision/latest?cb=20200313103039",
