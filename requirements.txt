@@ -14,7 +14,7 @@ fuzzywuzzy==0.18.0
 idna==3.7
 multidict==6.0.2
 mysql-connector==2.2.9
-mysql-connector-python==8.0.30
+mysql-connector-python==9.1.0
 protobuf==3.20.2
 python-dateutil==2.8.2
 python-decouple==3.6
